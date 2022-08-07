@@ -334,6 +334,7 @@ nav .menu-btn,
 	
 }
 .about-text button{
+    cursor: pointer;
     margin-top: 20px;
 	width: 140px;
 	height: 45px;
